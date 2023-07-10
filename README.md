@@ -30,9 +30,9 @@ You can also add, update, and batch process entries using the methods provided b
 This data repository currently supports the following repositories:
 
 - [**Automata**](https://github.com/emrgnt-cmplxty/Automata) _(automata)_
-- [**LLamaIndex**](https://github.com/jerryjliu/llama_index/tree/main) _(llama_index)_
-- [**LangChain**](https://github.com/hwchase17/langchain) _(langchain)_
-- [**Chroma**](https://github.com/chroma-core/chroma/tree/main) _(chromadb)_
+- [**LlamaIndex**](https://github.com/jerryjliu/llama_index/tree/main) _(llama_index)_
+- [**langchain**](https://github.com/hwchase17/langchain) _(langchain)_
+- [**chroma**](https://github.com/chroma-core/chroma/tree/main) _(chromadb)_
 - [**pandas**](https://github.com/pandas-dev/pandas) _(pandas)_
 - [**flask**](https://github.com/pallets/flask) _(src/flask)_
 - [**scikit-learn**](https://github.com/scikit-learn/scikit-learn) _(sklearn)_
